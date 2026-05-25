@@ -3,7 +3,7 @@
 CreditWise is an end-to-end Machine Learning web application built using Python, Streamlit, and Scikit-learn to predict loan approval decisions based on applicant financial and demographic data.
 The project demonstrates real-world credit risk analysis, robust data preprocessing, and model deployment in a production-ready environment.
 
-## Live App: https://creditwiseloan.streamlit.app/
+## Live App: https://credit-wise-loanapp.streamlit.app/
 
 ---
 
